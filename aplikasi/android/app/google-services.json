@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213157429142",
+    "project_id": "aplikasi-6a4a6",
+    "storage_bucket": "aplikasi-6a4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213157429142:android:55772daf385f1ff9b0e7b7",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FI0Ke5ObignGqsZEz6qubmB7fb_lUrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
